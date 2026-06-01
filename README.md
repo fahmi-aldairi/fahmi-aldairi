@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Bashar+Al-Amoush;Front-End+Developer;Angular+%26+Electron+Expert;React+%26+React+Native+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=1f6feb&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Fahmi+Al-Dairi;Front-End+Developer;Angular+%26+Electron+Expert;React+%26+React+Native+Dev" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -10,7 +10,7 @@
 &nbsp;
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square)
 &nbsp;
-![Location](https://img.shields.io/badge/📍-Amman%2C%20Jordan-DD0031?style=flat-square)
+![Location](https://img.shields.io/badge/📍-Amman%2C%20Jordan-1f6feb?style=flat-square)
 
 </div>
 
@@ -26,7 +26,7 @@ I'm an engineering-focused Front-End Developer specializing in architecting **en
 
 **Core Frameworks & Runtimes**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-1f6feb?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -78,7 +78,7 @@ I'm an engineering-focused Front-End Developer specializing in architecting **en
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahmi-aldairi)
-[![Email](https://img.shields.io/badge/Email-DD0031?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f.aldairi99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f.aldairi99@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+962787090363)
 
 </div>
